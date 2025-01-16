@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SgWoFfGejJY=",
+  "dgSpecHash": "SWTE6MleRss=",
   "success": true,
-  "projectFilePath": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
+  "projectFilePath": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alumno\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Alumno\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

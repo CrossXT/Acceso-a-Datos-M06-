@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
+      "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
       "projectName": "MansionMapEditor",
-      "projectPath": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
+      "projectPath": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\obj\\",
+      "outputPath": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5B0CF22-D911-4CCE-9DA8-82B6ECEE51EB}|MansionMapEditor.csproj|d:\\joan martinez\\m06\\proyectobaseeditor\\proyectobaseeditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5B0CF22-D911-4CCE-9DA8-82B6ECEE51EB}|MansionMapEditor.csproj|c:\\users\\alumno\\desktop\\acceso-a-datos-m06-\\proyectobaseeditor\\proyectobaseeditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5B0CF22-D911-4CCE-9DA8-82B6ECEE51EB}|MansionMapEditor.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5B0CF22-D911-4CCE-9DA8-82B6ECEE51EB}|MansionMapEditor.csproj|d:\\joan martinez\\m06\\proyectobaseeditor\\proyectobaseeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F5B0CF22-D911-4CCE-9DA8-82B6ECEE51EB}|MansionMapEditor.csproj|c:\\users\\alumno\\desktop\\acceso-a-datos-m06-\\proyectobaseeditor\\proyectobaseeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F5B0CF22-D911-4CCE-9DA8-82B6ECEE51EB}|MansionMapEditor.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -17,7 +17,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5B0CF22-D911-4CCE-9DA8-82B6ECEE51EB}|MansionMapEditor.csproj|d:\\joan martinez\\m06\\proyectobaseeditor\\proyectobaseeditor\\mansionmapeditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F5B0CF22-D911-4CCE-9DA8-82B6ECEE51EB}|MansionMapEditor.csproj|c:\\users\\alumno\\desktop\\acceso-a-datos-m06-\\proyectobaseeditor\\proyectobaseeditor\\mansionmapeditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F5B0CF22-D911-4CCE-9DA8-82B6ECEE51EB}|MansionMapEditor.csproj|solutionrelative:mansionmapeditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -34,28 +34,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Application.cs [Read Only]",
-              "DocumentMoniker": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs",
-              "ToolTip": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs [Read Only]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:22:39.568Z",
-              "EditorCaption": " [Read Only]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.cs [Read Only]",
               "DocumentMoniker": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\d7be4436fed2bb40253d72f7ed0905aad5c1331a5addc57bc9064089a84d7ef6\\App.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\d7be4436fed2bb40253d72f7ed0905aad5c1331a5addc57bc9064089a84d7ef6\\App.cs",
               "ToolTip": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\d7be4436fed2bb40253d72f7ed0905aad5c1331a5addc57bc9064089a84d7ef6\\App.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\d7be4436fed2bb40253d72f7ed0905aad5c1331a5addc57bc9064089a84d7ef6\\App.cs [Read Only]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T08:22:33.46Z",
               "EditorCaption": " [Read Only]"
@@ -65,7 +53,9 @@
               "DocumentIndex": 3,
               "Title": "ExecutionContext.cs [Read Only]",
               "DocumentMoniker": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
               "ToolTip": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [Read Only]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T08:21:42.757Z",
               "EditorCaption": " [Read Only]"
@@ -74,22 +64,34 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAswNwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T07:37:10.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Application.cs [Read Only]",
+              "DocumentMoniker": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs",
+              "ToolTip": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\42457897f1285ffc7ed978cbfb3f7b5933f5cb5427295abb3c44871bab3de3a0\\Application.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:22:39.568Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-24T08:16:43.598Z",
@@ -100,7 +102,9 @@
               "DocumentIndex": 5,
               "Title": "XamlReader.cs [Read Only]",
               "DocumentMoniker": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
               "ToolTip": "C:\\Users\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\IFP\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T08:22:39.546Z",
               "EditorCaption": " [Read Only]"
@@ -109,14 +113,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MansionMapEditor.csproj",
-              "DocumentMoniker": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
               "RelativeDocumentMoniker": "MansionMapEditor.csproj",
-              "ToolTip": "D:\\Joan Martinez\\M06\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Acceso-a-Datos-M06-\\ProyectoBaseEditor\\ProyectoBaseEditor\\MansionMapEditor.csproj",
               "RelativeToolTip": "MansionMapEditor.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T07:06:56.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T07:06:56.247Z"
             }
           ]
         }
